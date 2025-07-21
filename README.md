@@ -45,7 +45,12 @@ The goal is to document my learning progress, practice integration patterns, and
 - Unit testing of flows and transformations
 - Enterprise Integration Patterns (EIP): router, aggregator, retry, filter
 
----
+## 📁 Project Structure:
+- `theory/` – Theoretical notes
+- `projects/` – Practical projects and implementations
+- `tools/` – Guides and documentation for tools
+- `checklists/` – Checklists and summaries
+- `progress.md` – My day-to-day learning progress
 
 ## ✍️ Author
 
