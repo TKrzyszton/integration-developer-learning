@@ -1,6 +1,11 @@
 # 🚀 Progress Tracker
 
 ## 2025-07-22
+- ✅ Read an article about DevOps
+- ✅ Studied theory related to REST and SOAP
+- ✅ Build a treasure game using logical operators in Pyhton
+
+## 2025-07-22
 - ✅ Read an article about API Lifecycle
 - ✅ Studied theory related to ESB and IPaaS
 - ✅ Continued Python learning with practical exercises.
