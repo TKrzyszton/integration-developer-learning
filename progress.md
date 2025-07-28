@@ -1,5 +1,10 @@
 # 🚀 Progress Tracker
 
+## 2025-07-28
+- ✅ Read an article about IPaaS
+- ✅ Studied Postman Course for Beginners
+- ✅ Build a Rock,Paper,Scissors Game in Python
+
 ## 2025-07-23
 - ✅ Read an article about DevOps
 - ✅ Studied theory related to REST and SOAP
