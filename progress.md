@@ -1,5 +1,10 @@
 # 🚀 Progress Tracker
 
+## 2025-08-02
+- ✅ Got another badge in Mulesoft Trail - API Basics
+- ✅ Studied Postman Course for Beginners - Postman Tests
+- ✅ Discovered functions in Python
+
 ## 2025-07-31
 - ✅ Got another badge in Mulesoft Trail
 - ✅ Studied Postman Course for Beginners
